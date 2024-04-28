@@ -39,5 +39,8 @@ I often share my knowledge by writing articles on [my website](https://anantadur
   
   [View certification](https://www.credly.com/badges/3e9f5500-530a-4ff9-b2f0-a331df7dda8f/public_url)  
 
-
+### 📚 Projects
+<a href="https://github.com/anantadurgaprasad/terraform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anantadurgaprasad&repo=terraform" />
+</a>
 
