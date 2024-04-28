@@ -4,6 +4,8 @@
 
 Welcome to my GitHub page! I'm a DevOps engineer with 2 years of industry experience in automating and optimizing mission-critical deployments over large infrastructure. With a robust background in Kubernetes, Terraform, and a comprehensive suite of AWS services, I am passionate about building scalable and efficient solutions using modern cloud technologies.
 
+I often share my knowledge by writing articles on [my website](https://anantadurgaprasad.github.io/) - Let me know which article you liked.
+
 ### 🌱 I’m currently learning
 
 - Advanced Kubernetes strategies
